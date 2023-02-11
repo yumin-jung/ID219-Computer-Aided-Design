@@ -34,6 +34,10 @@
    
 <img src="data/usb_project/ID219_RYAN_photo1.jpg"/>
 
+### STL files
+
+You can see STL files here: [front](https://github.com/yumin-jung/ID219-Computer-Aided-Design/blob/main/data/usb_project/ID219_RYAN_front.stl) and [back](https://github.com/yumin-jung/ID219-Computer-Aided-Design/blob/main/data/usb_project/ID219_RYAN_back.stl)
+
 ## 3D Model Rendering Project
 
 ### Studio
